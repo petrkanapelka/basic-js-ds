@@ -38,7 +38,7 @@ class BinarySearchTree {
           }
       }
   }
-
+//tester
   has(data) {
     if (!this.hasOwnProperty('rooter')) {
       return false;
